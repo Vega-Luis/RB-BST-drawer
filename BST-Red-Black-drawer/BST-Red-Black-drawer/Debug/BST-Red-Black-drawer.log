@@ -1,0 +1,9 @@
+﻿  Main.cpp
+c:\users\luis\documents\repos\bst-red-black-drawer\bst-red-black-drawer\bst-red-black-drawer\gui.h(107): warning C4018: '<': no coinciden signed/unsigned
+c:\users\luis\documents\repos\bst-red-black-drawer\bst-red-black-drawer\bst-red-black-drawer\gui.h(112): warning C4018: '<': no coinciden signed/unsigned
+c:\users\luis\documents\repos\bst-red-black-drawer\bst-red-black-drawer\bst-red-black-drawer\gui.h(117): warning C4018: '<': no coinciden signed/unsigned
+c:\users\luis\documents\repos\bst-red-black-drawer\bst-red-black-drawer\bst-red-black-drawer\graph.h(103): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\luis\documents\repos\bst-red-black-drawer\bst-red-black-drawer\bst-red-black-drawer\graph.h(103): note: durante la compilación de la función miembro de plantilla clase de 'Graph_lib::Vector_ref<Graph_lib::Button>::~Vector_ref(void)'
+  c:\users\luis\documents\repos\bst-red-black-drawer\bst-red-black-drawer\bst-red-black-drawer\gui.h(97): note: vea la referencia a la creación de instancias de plantilla de función 'Graph_lib::Vector_ref<Graph_lib::Button>::~Vector_ref(void)' que se está compilando
+  c:\users\luis\documents\repos\bst-red-black-drawer\bst-red-black-drawer\bst-red-black-drawer\gui.h(99): note: vea la referencia a la creación de instancias de plantilla clase de 'Graph_lib::Vector_ref<Graph_lib::Button>' que se está compilando
+  BST-Red-Black-drawer.vcxproj -> C:\Users\Luis\Documents\repos\BST-Red-Black-drawer\BST-Red-Black-drawer\Debug\BST-Red-Black-drawer.exe
